@@ -1,0 +1,63 @@
+.header, .contents {
+  color: #333;
+}
+
+
+
+.leveltheexperience-contact-modal{
+  color: #333;
+}
+
+
+h1.h1-title {
+  color: #ECE6E6;
+}
+
+a:link {
+    color: #333;
+}
+
+a:hover {
+    color: gray !important;
+}
+
+.nav-item {
+  color: #dcdfe5 !important;
+}
+
+
+body {
+  background-color: #dcdfe5 !important;
+}
+
+
+p {
+  color: #333;
+}
+
+h2.map-h1 {
+  color: #333;
+}
+
+p.map-p{
+  color: #333;
+}
+
+
+
+.carousel-item, .test_image {
+  padding:3px;
+  border:5px solid #625f68;
+  background-color: #b4b2b7;
+}
+
+
+
+.options {
+  border: 3px solid #333;
+}
+
+.footer .item li,
+.settings {
+  background-color: #333;
+}

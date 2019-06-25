@@ -1,0 +1,75 @@
+/* START COLOR SWITCH */
+
+.color-switch {
+  position: fixed;
+  right: 0;
+  bottom: 30px;
+}
+
+.options {
+background-color: #0F0F0F;
+height: 100px;
+padding: 5px 20px;
+color: #FFF;
+float: left;
+display: none;
+}
+
+.color-switch .options ul li {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.color-switch .settings {
+  color: #FFF;
+  height: 60px;
+  padding: 10px 10px;
+  cursor: pointer;
+}
+
+.grid-section-image img {
+  width: 400px;
+  height: 250px;
+}
+
+.grid-section-image-2 img {
+  width: 400px;
+  height: 250px;
+}
+.grid-section-image-3 img {
+  width: 400px;
+  height: 250px;
+}
+.grid-section-image-4 img {
+  width: 400px;
+  height: 250px;
+}
+.grid-section-image-5 img {
+  width: 400px;
+  height: 250px;
+}
+.grid-section-image-6 img {
+  width: 400px;
+  height: 250px;
+}
+
+.flex-column {
+  max-width: 50%;
+  padding: 10px;
+}
+
+
+
+.leftside-section-image, .rightside-section-image, .leftside-section-paragraph, .rightside-section-paragraph {
+  padding: 5px;
+}
+
+
+/* Set the size of the div element that contains the map */
+#map {
+  height: 400px;
+  width: 100%;
+}
